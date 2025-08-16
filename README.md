@@ -1,1 +1,1 @@
-# codeAlpha_Build-a-calculator
+# codeAlpha_calculator
